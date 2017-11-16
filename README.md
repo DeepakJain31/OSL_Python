@@ -1,1 +1,3 @@
 # OSL_Python
+Tetris is a block-based puzzle game wherein blocks have to be placed in such an arrangement that the free-space between various blocks is minimized. The game has been studied as a part of artificial intelligence and various algorithms have been designed to minimize the free-space. One such algorithm is Bin-Packing Algorithm. To give an overview, the game consists of blocks of various shapes. These blocks appear one at a time and they have to be placed in such a way that there is no free space between two nearby blocks. If at any time, a row consists of no free space, then the row gets vanished. The game ends when there is no space for block to be put.
+Second version adds sound to the game.
